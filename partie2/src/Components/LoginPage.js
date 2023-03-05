@@ -48,7 +48,7 @@ function LoginPage() {
   return (
     <div className="text-center" >
       <h1>Page de connexion</h1>
-    <h5 className="mt-4"> Les identifiants à taper pour pouvoir connecter</h5>
+    <h5 className="mt-4"style={{color:"blueviolet"}}> Les identifiants à taper pour pouvoir connecter</h5>
       <p>Nom d'utilisateur : {usernameApi}</p>
       <p>Mot de passe : {passwordApi}</p>
     <div className="card p-3  " style={{maxWidth:"300px", margin:"auto"}}>

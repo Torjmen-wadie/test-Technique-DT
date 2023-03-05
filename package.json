@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap": "^5.2.3",
-    "rc-progress": "^3.4.1",
-    "react-circular-progressbar": "^2.1.0"
-  }
-}
